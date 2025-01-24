@@ -1,0 +1,223 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box; 
+}
+body{
+    text-align: center;
+}
+
+#head{
+    position: fixed;
+}
+
+
+#topbar{
+    width: 100%;
+    height: 80px;
+    background-color: whitesmoke;
+    font-size: 15px;text-align: center;
+    align-content: center;
+    
+    
+}
+#w3{
+    width: 5%;
+    text-align: center;
+    float: left;
+}
+#aw3{
+    color: green;
+    text-decoration: none;
+}
+#drop down .select{
+   
+    
+    
+    
+       
+}
+
+.dropd{
+    width: 10%;
+    float: left;
+     
+    
+}
+.select{
+    width: 60px;
+    font-size: 15px;
+    
+    
+}
+
+#search{
+    width: 5%px;
+    float: left;
+}
+input{
+    width: 80px;
+    font-size: 15px;
+}
+#mgfnglass{
+    width: 5%;
+    float: left;
+}
+#ltdk{
+    width: 5%;
+    float: left;
+    
+    
+}
+#plus{
+    width: 5%;
+    float: left;
+}
+#teacher{
+    width: 10%;
+   float: left;
+}
+#space{
+    width: 5%;
+    float: left;
+    
+}
+#certified{
+    width: 10%;
+    float: left;
+    
+}
+
+
+#signup{
+    width: 5%;
+    float: left;
+
+}
+#login{
+    width: 5%;
+    float: left;
+    margin-left: 5px;
+}
+#navbar{
+    width: 100%;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: center;
+    align-content: center;   
+}
+#main{
+    width: 100%;
+    height: 1000px;
+    
+    
+}
+ul{
+    
+}
+
+li{
+    display: inline-block;
+    color: black;
+    border-right: 1px solid gainsboro;
+    padding: 3px;
+    
+}
+
+#left{
+    width: 19%;
+    height: 800px;
+    background-color: rgba(168, 162, 162, 0.438);
+    overflow-y: scroll;
+    text-align: center;
+    margin-left: 10px;
+    position:  fixed;
+    left: 0px;
+    margin-top: 130px;
+    
+    
+}
+#first{
+    background-color: greenyellow;
+}
+#center{
+    width: 60%;
+    height: 2000px;
+    overflow: scroll;
+    background-color: aquamarine;
+    position: absolute;
+    left: 20%;
+    margin-top: 130px;
+    z-index: -1;
+             
+}
+
+#center p{
+    text-transform: capitalize;
+    text-align: justify;
+    margin-left: 10px;
+}
+h1{
+    margin-left: 20px;
+    padding: 20px;
+}
+#b1{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+    background-color: greenyellow;
+    margin-left: 20px;
+}
+#b2{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 65%;
+    background-color: greenyellow;
+}
+
+#text{
+    width: 100%;
+    height: 250px;
+    background-color: lightsteelblue;
+    margin-top: 50px;
+    text-align: left;    
+}
+
+ .para p{
+    width: 100%;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 20px;
+    
+}
+#text #start{
+    width: 300px;
+    padding: 10px;
+    margin-left: 30px;
+    background-color: greenyellow;
+}
+
+#rside{
+    width: 19%;
+    height: 2000px;
+    background-color: rgba(168, 162, 162, 0.438);
+    text-align: center;
+    margin-left: 79%;
+    
+}
+
+h2{
+    width: 200px;
+    height: 80px;
+    background-color: aqua;
+    position: sticky;
+    top: 130px;
+}
+
+
+
+
+
+
+
+    
