@@ -203,6 +203,10 @@ h1{
     background-color: rgba(168, 162, 162, 0.438);
     text-align: center;
     margin-left: 79%;
+    margin-top: 130px;
+    position: absolute;
+    top: 0px;
+    z-index: -2;
     
 }
 
